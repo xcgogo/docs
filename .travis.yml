@@ -7,7 +7,6 @@ branches:
   only:
     - master # build master branch only
 script:
-  - git clone --branch v7.8.0 https://github.com/theme-next/hexo-theme-next themes/next
   - hexo generate
 deploy:
   provider: pages
