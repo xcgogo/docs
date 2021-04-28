@@ -37,7 +37,7 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-```mermaid
+``` mermaid
 gantt
 title 甘特图
 dateFormat  YYYY-MM-DD
